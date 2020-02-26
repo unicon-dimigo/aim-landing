@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+h3 {
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+.fp-tableCell {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   }
+
+.logo {
+    width: 15rem;
+    /* height: auto; */
+}
+
+.white {
+    color: white;
+}
+
+.instagram,
+.fb,
+.wp,
+.cm {
+    display: flex;
+    justify-content: space-around;
+}
+
+.insta_img {
+    width: 40%;
+}
+
+.fb_img {
+    width: 15%;
+}
+
+.wp_img {
+    width: 40%;
+}
+
+.cm_img {
+    width: 60%;
+}
+
+.logo--dark {
+    height: 40%;
+}
